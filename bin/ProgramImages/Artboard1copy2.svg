@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 550">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="174.81" y1="-74.19" x2="174.81" y2="582.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#0d71ba"/>
+      <stop offset="0.13" stop-color="#0c75b8"/>
+      <stop offset="0.5" stop-color="#039ba4"/>
+      <stop offset="0.69" stop-color="#00a99d"/>
+      <stop offset="0.74" stop-color="#05a49c"/>
+      <stop offset="0.8" stop-color="#11949b"/>
+      <stop offset="0.86" stop-color="#277b98"/>
+      <stop offset="0.93" stop-color="#445794"/>
+      <stop offset="1" stop-color="#662f90"/>
+    </linearGradient>
+  </defs>
+  <title>Artboard 1 copy 2</title>
+  <rect class="cls-1" x="-0.38" width="350.38" height="550"/>
+</svg>

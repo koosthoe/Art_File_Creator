@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257.37 576.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>Double_Quote</title>
+  <g>
+    <polygon class="cls-1" points="158.63 251.26 257.25 167.82 257.25 0.23 158.63 0.23 158.63 251.26"/>
+    <polygon class="cls-1" points="0.12 251.26 98.73 167.82 98.73 0.23 0.12 0.23 0.12 251.26"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241.04 576">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>Asterisk</title>
+  <polygon class="cls-1" points="240.04 86.9 214.53 40.99 149.79 78.34 149.79 0.31 91.24 0.31 91.24 77.52 26.49 41 0.15 86.9 66.55 125.08 0.15 163.27 26.5 209.17 91.24 171.82 91.24 252.36 149.79 252.36 149.79 172.65 213.69 209.16 240.89 163.27 173.65 125.08 240.04 86.9"/>
+</svg>

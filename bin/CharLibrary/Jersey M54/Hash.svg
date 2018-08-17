@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 421.04 576">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>Hash</title>
+  <path class="cls-1" d="M375.91,1.36H289.38L268.62,160.78h-87L202.37,1.36H115.84L95.08,160.78H22v77.39H85L72.67,328.5H1.19v77.39H62.57L40.15,575.28h86.53L149.1,405.89h87L213.69,575.28H301l22.42-169.39h75.62V328.5H333.56l11.49-90.33h74.79V160.78H355.15ZM171.52,238.17h87L246.2,328.5h-87Z"/>
+</svg>

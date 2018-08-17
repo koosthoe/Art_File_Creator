@@ -1,0 +1,34 @@
+Step 1:
+-Select the Orders you need on ShipStation
+-Click Other Actions Button
+-Select Export Order Line Items
+-Save file in easy to find location for later use
+
+
+
+Step 2:
+-Start the Art_File_Creator program by clicking on it.
+-Click the Open button and select the CSV you just created.
+-Click Run and wait untill the checkmark appears.
+
+
+Step 3:
+-Open Illustrator
+-Open the Actions window (Click on window tab and choose Actions)
+-Select Step 1 Action and run it (Click the play button on bottom of the actions window)
+-After the Do Not Delete File opens, Click the AutoConvert Action 
+-Click the Action Menu button in the top right corner of the action window
+-Select Batch from the Action Menu
+-Click OK in the Batch window to start conversion(This may take a while)
+
+Step 4:
+-Once the Batch action is complete, Click the Check Files button
+-If check files button does nothing, then there was an error in process. Reset program and start from Step 2
+-If Check Files is successful, then Click Organize button to complete program
+
+Step 5:
+-To find the completed Art Files, open the Ready Files folder
+-Open the folder named the current date to see Art Files.
+
+
+*Press the reset button if you make any mistakes

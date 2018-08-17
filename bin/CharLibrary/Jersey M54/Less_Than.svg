@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 361.75 576">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>Less_Than</title>
+  <polygon class="cls-1" points="0.13 302.28 0.13 388.8 360.44 530.59 361.12 530.85 361.12 433.11 130.37 345.96 360.8 258.09 361.12 257.97 361.12 161.07 0.45 302.16 0.13 302.28"/>
+</svg>
