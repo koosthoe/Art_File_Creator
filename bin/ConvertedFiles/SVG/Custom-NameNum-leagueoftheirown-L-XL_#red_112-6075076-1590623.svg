@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="648.0" viewBox="0 0 648.0 244.17664755175267" height="244.17664755175267">
+  <g transform="translate(10.399859993176335, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>E</title>
+  <path class="cls-1" d="M271.58,575.88H.12V12.53H269.43v104H104.12V242H246.48V346.38H104.12v125.5H271.58Z"/>
+</g>
+  <g transform="translate(101.01894004569573, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>_r</title>
+  <path class="cls-1" d="M335.41,575.88H223.89l-88.58-229.5H104.48v229.5H.12V12.53H250.06L316.4,71.69V278.6l-71,66.34ZM104.48,242H212.41V116.16H104.48Z"/>
+</g>
+  <g transform="translate(208.5465364928543, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>_i</title>
+  <path class="cls-1" d="M104.48,575.88H.12V12.53H104.48Z"/>
+</g>
+  <g transform="translate(255.04495657811208, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>_k</title>
+  <path class="cls-1" d="M331.82,12.53,192.69,294.38l139.13,281.5H216L104.12,346.38v229.5H.12V12.53h104V242L216,12.53Z"/>
+</g>
+  <g transform="translate(361.7799663192719, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>_a</title>
+  <path class="cls-1" d="M265.51,575.88l-25.1-125.51h-109L106.3,575.88H.15L112.75,12.53H259.06L371.65,575.88Zm-45.9-229.5L185.9,177.84,152.2,346.38Z"/>
+</g>
+  <g transform="translate(554.9069270142913, 10) scale(0.2641955686662373) "><defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ec008c;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>S</title>
+  <path class="cls-1" d="M313.18,517.07l-66.34,58.81H67.18L.12,517.07V426.34h104v45.54H209.18V346.38h-142L.12,287.21V71.69L67.18,12.53H246.84l66.34,58.81v87.49h-104V116.52H104.12V242H246.84l66.34,59.16Z"/>
+</g>
+</svg>
