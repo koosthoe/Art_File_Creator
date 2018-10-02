@@ -1,2 +1,4 @@
 
-C:\Users\kjoos\Desktop\Art_File_Creator\bin\ConvertedFiles\SVG\Custom-NameNum-leagueoftheirown-L-XL_#red_112-6075076-1590623.svg
+C:\Users\kjoos\PycharmProjects\CapesData\bin\ConvertedFiles\SVG\CUSTOMcapeADULTred-red_#000080_112-0201777-9512216.svg
+
+C:\Users\kjoos\PycharmProjects\CapesData\bin\ConvertedFiles\SVG\CUSTOMcapeADULTgrn-grn_#000000_111-9677147-4022626.svg
